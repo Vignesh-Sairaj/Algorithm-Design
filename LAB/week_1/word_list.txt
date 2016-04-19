@@ -1,0 +1,17 @@
+"Father," "Mother,"
+" father'" " mother'"
+"Father'" "Mother'"
+"Brother," "Sister,"
+" brother'" " sister'"
+"Appa," "Amma,"
+"Husband," "Wife,"
+" son," " daughter,"
+" male " " female "
+"Appa " "Amma "
+" brother " " sister "
+
+
+
+"Father,", " father'", "Father'", "Brother,", " brother'", "Appa,", "Husband,", " son,", " male ", "Appa and Amma ", " brother "
+"Mother,", " mother'", "Mother'", "Sister,", " sister'", "Amma,", "Wife,", " daughter,", " female ", "Amma and Amma ", " sister "
+"Parent,", " parent'", "Parent'", "Sibling,", " sibling'", "Parent,", "Spouse,", " child,", " ", "Parents ", " sibing "

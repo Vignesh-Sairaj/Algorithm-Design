@@ -1,0 +1,305 @@
+
+
+weights: < 45  40  3  44  6  16  25  11  36  6  26 >
+profits: < 48  16  40  25  34  36  1  40  2  7  7 >
+
+DP: 182 && Greedy: 182  ::  (DP == Greedy)?1
+
+
+weights: < 41  35  14  29  47  20  2  7  25  10  50 >
+profits: < 46  49  22  32  48  22  12  46  18  8  25 >
+
+DP: 169 && Greedy: 155  ::  (DP == Greedy)?0
+
+
+weights: < 4  4  5  17  4  10  24  40  19  40  21 >
+profits: < 13  47  15  32  6  9  3  35  40  19  45 >
+
+DP: 194 && Greedy: 191  ::  (DP == Greedy)?0
+
+
+weights: < 22  50  21  13  32  13  38  44  49  37  29 >
+profits: < 42  2  2  11  37  50  9  36  20  28  20 >
+
+DP: 126 && Greedy: 123  ::  (DP == Greedy)?0
+
+
+weights: < 47  41  43  40  19  3  9  36  30  17  34 >
+profits: < 23  41  33  18  39  16  22  11  15  4  8 >
+
+DP: 122 && Greedy: 122  ::  (DP == Greedy)?1
+
+
+weights: < 32  6  5  36  3  50  43  46  32  8  50 >
+profits: < 15  4  5  38  18  11  21  29  32  22  43 >
+
+DP: 121 && Greedy: 121  ::  (DP == Greedy)?1
+
+
+weights: < 1  42  25  25  12  24  50  13  23  43  32 >
+profits: < 20  48  43  34  48  10  32  28  48  6  27 >
+
+DP: 201 && Greedy: 172  ::  (DP == Greedy)?0
+
+
+weights: < 12  32  18  17  1  10  12  14  10  26  45 >
+profits: < 37  47  19  44  46  41  6  32  38  17  16 >
+
+DP: 254 && Greedy: 254  ::  (DP == Greedy)?1
+
+
+weights: < 2  47  26  49  22  48  35  28  12  6  25 >
+profits: < 27  43  21  30  27  25  18  31  35  32  44 >
+
+DP: 169 && Greedy: 154  ::  (DP == Greedy)?0
+
+
+weights: < 25  46  27  16  3  17  21  25  36  42  12 >
+profits: < 44  28  10  15  16  28  13  34  34  40  29 >
+
+DP: 147 && Greedy: 147  ::  (DP == Greedy)?1
+
+
+weights: < 48  31  38  31  43  41  40  23  40  12  5 >
+profits: < 26  22  37  28  26  19  20  2  45  34  29 >
+
+DP: 145 && Greedy: 145  ::  (DP == Greedy)?1
+
+
+weights: < 22  35  38  10  6  46  1  28  9  49  15 >
+profits: < 28  36  18  42  15  18  9  10  45  6  10 >
+
+DP: 165 && Greedy: 165  ::  (DP == Greedy)?1
+
+
+weights: < 11  43  12  31  14  23  49  10  13  36  17 >
+profits: < 7  7  41  42  48  9  12  43  13  28  5 >
+
+DP: 192 && Greedy: 192  ::  (DP == Greedy)?1
+
+
+weights: < 31  19  30  40  4  20  14  45  22  5  23 >
+profits: < 8  48  38  45  25  18  7  22  49  16  31 >
+
+DP: 194 && Greedy: 183  ::  (DP == Greedy)?0
+
+
+weights: < 5  10  19  49  37  42  43  26  16  11  18 >
+profits: < 21  46  38  10  12  9  5  22  35  34  24 >
+
+DP: 199 && Greedy: 199  ::  (DP == Greedy)?1
+
+
+weights: < 48  29  21  18  41  15  17  27  22  31  24 >
+profits: < 15  8  45  43  13  37  18  43  31  48  28 >
+
+DP: 186 && Greedy: 179  ::  (DP == Greedy)?0
+
+
+weights: < 14  16  3  19  47  1  13  47  20  4  33 >
+profits: < 19  42  46  9  37  4  28  18  2  47  46 >
+
+DP: 222 && Greedy: 222  ::  (DP == Greedy)?1
+
+
+weights: < 36  24  39  37  40  34  39  5  1  49  6 >
+profits: < 2  43  40  17  33  12  20  7  32  14  13 >
+
+DP: 135 && Greedy: 135  ::  (DP == Greedy)?1
+
+
+weights: < 32  8  34  11  35  46  9  40  50  9  9 >
+profits: < 2  48  2  6  27  46  7  6  43  24  10 >
+
+DP: 145 && Greedy: 145  ::  (DP == Greedy)?1
+
+
+weights: < 16  46  5  48  24  42  3  6  10  48  41 >
+profits: < 21  4  48  34  32  8  34  30  15  18  43 >
+
+DP: 202 && Greedy: 159  ::  (DP == Greedy)?0
+
+
+weights: < 43  23  4  29  26  49  23  10  5  39  9 >
+profits: < 23  46  38  15  50  48  17  16  3  21  25 >
+
+DP: 195 && Greedy: 144  ::  (DP == Greedy)?0
+
+
+weights: < 45  23  50  36  32  31  25  11  14  16  32 >
+profits: < 11  18  37  22  44  17  16  49  26  6  4 >
+
+DP: 143 && Greedy: 130  ::  (DP == Greedy)?0
+
+
+weights: < 38  39  4  19  15  40  45  38  23  26  46 >
+profits: < 38  50  48  10  11  46  13  4  26  20  8 >
+
+DP: 155 && Greedy: 155  ::  (DP == Greedy)?1
+
+
+weights: < 13  38  39  10  28  1  42  11  31  12  35 >
+profits: < 46  19  41  38  3  40  21  10  35  31  8 >
+
+DP: 185 && Greedy: 185  ::  (DP == Greedy)?1
+
+
+weights: < 4  25  44  29  2  25  23  34  9  10  40 >
+profits: < 16  37  35  35  2  17  38  10  49  13  5 >
+
+DP: 174 && Greedy: 174  ::  (DP == Greedy)?1
+
+
+weights: < 47  17  8  38  49  16  50  50  16  8  43 >
+profits: < 45  5  2  12  21  41  14  37  17  8  33 >
+
+DP: 105 && Greedy: 105  ::  (DP == Greedy)?1
+
+
+weights: < 3  26  23  15  4  19  32  50  8  49  14 >
+profits: < 11  26  44  25  34  6  21  8  22  31  21 >
+
+DP: 172 && Greedy: 156  ::  (DP == Greedy)?0
+
+
+weights: < 12  26  33  27  21  35  6  47  2  30  45 >
+profits: < 26  5  16  19  20  39  22  15  16  35  14 >
+
+DP: 132 && Greedy: 132  ::  (DP == Greedy)?1
+
+
+weights: < 26  27  32  12  40  36  7  18  32  23  2 >
+profits: < 8  37  20  17  25  32  7  47  24  47  33 >
+
+DP: 188 && Greedy: 188  ::  (DP == Greedy)?1
+
+
+weights: < 32  12  24  41  16  37  9  42  21  27  28 >
+profits: < 43  42  49  30  48  16  5  42  3  6  17 >
+
+DP: 181 && Greedy: 181  ::  (DP == Greedy)?1
+
+
+weights: < 41  17  42  47  17  38  8  12  13  11  12 >
+profits: < 48  49  42  25  28  38  4  50  32  27  20 >
+
+DP: 210 && Greedy: 200  ::  (DP == Greedy)?0
+
+
+weights: < 28  37  20  4  48  38  39  2  28  47  33 >
+profits: < 4  30  16  41  20  23  35  45  33  28  36 >
+
+DP: 173 && Greedy: 173  ::  (DP == Greedy)?1
+
+
+weights: < 3  11  11  4  45  16  29  6  40  21  11 >
+profits: < 50  38  17  40  32  2  14  45  43  13  37 >
+
+DP: 222 && Greedy: 222  ::  (DP == Greedy)?1
+
+
+weights: < 22  50  2  1  7  45  43  19  37  14  31 >
+profits: < 12  49  21  4  39  20  18  15  47  49  37 >
+
+DP: 197 && Greedy: 177  ::  (DP == Greedy)?0
+
+
+weights: < 25  48  17  47  21  50  9  21  47  5  19 >
+profits: < 8  48  33  29  22  9  31  20  33  41  9 >
+
+DP: 175 && Greedy: 175  ::  (DP == Greedy)?1
+
+
+weights: < 36  13  23  29  44  32  47  16  4  9  21 >
+profits: < 6  33  23  21  14  47  48  35  6  28  8 >
+
+DP: 172 && Greedy: 136  ::  (DP == Greedy)?0
+
+
+weights: < 42  35  48  43  40  29  14  36  42  37  27 >
+profits: < 7  26  22  11  42  14  36  21  6  49  26 >
+
+DP: 127 && Greedy: 127  ::  (DP == Greedy)?1
+
+
+weights: < 27  28  13  38  41  31  7  4  12  3  26 >
+profits: < 18  3  11  32  28  48  30  22  15  50  28 >
+
+DP: 204 && Greedy: 197  ::  (DP == Greedy)?0
+
+
+weights: < 35  9  20  5  12  33  10  47  16  17  16 >
+profits: < 4  33  47  32  10  27  32  45  2  46  24 >
+
+DP: 224 && Greedy: 203  ::  (DP == Greedy)?0
+
+
+weights: < 33  40  1  15  7  32  23  5  24  45  38 >
+profits: < 36  34  34  33  50  26  41  42  24  5  27 >
+
+DP: 234 && Greedy: 234  ::  (DP == Greedy)?1
+
+
+weights: < 21  33  1  46  7  46  36  9  26  35  7 >
+profits: < 41  7  28  18  4  15  47  7  16  40  33 >
+
+DP: 159 && Greedy: 159  ::  (DP == Greedy)?1
+
+
+weights: < 14  10  1  22  14  49  13  47  8  15  31 >
+profits: < 24  19  19  43  35  40  9  26  1  13  19 >
+
+DP: 156 && Greedy: 156  ::  (DP == Greedy)?1
+
+
+weights: < 30  43  50  20  18  38  18  36  41  49  21 >
+profits: < 2  26  1  9  3  49  20  13  46  17  19 >
+
+DP: 115 && Greedy: 115  ::  (DP == Greedy)?1
+
+
+weights: < 15  34  30  11  50  29  34  25  48  22  12 >
+profits: < 2  25  49  34  32  49  22  10  24  15  28 >
+
+DP: 160 && Greedy: 160  ::  (DP == Greedy)?1
+
+
+weights: < 14  25  22  35  36  46  48  28  48  38  27 >
+profits: < 22  40  38  15  9  24  48  34  13  29  38 >
+
+DP: 126 && Greedy: 126  ::  (DP == Greedy)?1
+
+
+weights: < 8  38  2  29  29  38  50  46  35  18  36 >
+profits: < 36  50  20  5  19  29  14  39  1  30  11 >
+
+DP: 129 && Greedy: 109  ::  (DP == Greedy)?0
+
+
+weights: < 1  31  12  2  3  15  1  45  6  34  6 >
+profits: < 44  18  36  31  9  23  26  43  29  14  11 >
+
+DP: 208 && Greedy: 208  ::  (DP == Greedy)?1
+
+
+weights: < 20  27  21  31  35  35  44  17  24  26  35 >
+profits: < 28  38  16  39  17  34  4  49  46  14  37 >
+
+DP: 172 && Greedy: 172  ::  (DP == Greedy)?1
+
+
+weights: < 49  31  19  39  47  44  24  28  19  16  28 >
+profits: < 5  36  29  16  32  10  12  3  32  16  19 >
+
+DP: 116 && Greedy: 100  ::  (DP == Greedy)?0
+
+
+weights: < 32  30  36  9  26  1  15  46  19  31  30 >
+profits: < 42  44  42  35  31  38  13  36  17  15  28 >
+
+DP: 178 && Greedy: 176  ::  (DP == Greedy)?0
+
+
+
+NumTrials = 50 :: Number of times matching outputs = 31
+

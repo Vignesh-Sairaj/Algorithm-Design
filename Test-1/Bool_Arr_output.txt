@@ -1,0 +1,113 @@
+vignesh@Vignesh-Linux-Mint-VM ~/Dropbox/DAA/Test-1 $ g++ BoolArr.cpp -ggdb -o BoolArr.out
+vignesh@Vignesh-Linux-Mint-VM ~/Dropbox/DAA/Test-1 $ ./BoolArr.out 
+Enter size of bool-array: 8
+Enter bool element at index 0: 1
+Enter bool element at index 1: 
+1
+Enter bool element at index 2: 1
+Enter bool element at index 3: 1
+Enter bool element at index 4: 1
+Enter bool element at index 5: 1
+Enter bool element at index 6: 1
+Enter bool element at index 7: 1
+
+
+Num of ones = 8
+
+vignesh@Vignesh-Linux-Mint-VM ~/Dropbox/DAA/Test-1 $ ./BoolArr.out 
+Enter size of bool-array: 16
+Enter bool element at index 0: 0
+Enter bool element at index 1: 0
+Enter bool element at index 2: 1
+Enter bool element at index 3: 0
+Enter bool element at index 4: 1
+Enter bool element at index 5: 1
+Enter bool element at index 6: 1
+Enter bool element at index 7: 1
+Enter bool element at index 8: 1
+Enter bool element at index 9: 0
+Enter bool element at index 10: 0
+Enter bool element at index 11: 0
+Enter bool element at index 12: 1
+Enter bool element at index 13: 1
+Enter bool element at index 14: 0
+Enter bool element at index 15: 1
+
+
+Num of ones = 9
+
+vignesh@Vignesh-Linux-Mint-VM ~/Dropbox/DAA/Test-1 $ ./BoolArr.out 
+Enter size of bool-array: 7
+Enter bool element at index 0: 0
+Enter bool element at index 1: 0
+Enter bool element at index 2: 0
+Enter bool element at index 3: 0
+Enter bool element at index 4: 0
+Enter bool element at index 5: 0
+Enter bool element at index 6: 0
+
+
+Num of ones = 0
+
+vignesh@Vignesh-Linux-Mint-VM ~/Dropbox/DAA/Test-1 $ ./BoolArr.out 
+Enter size of bool-array: 13
+Enter bool element at index 0: 0
+Enter bool element at index 1: 0
+Enter bool element at index 2: 0
+Enter bool element at index 3: 0
+Enter bool element at index 4: 0
+Enter bool element at index 5: 0
+Enter bool element at index 6: 1
+Enter bool element at index 7: 1
+Enter bool element at index 8: 1
+Enter bool element at index 9: 1
+Enter bool element at index 10: 1
+Enter bool element at index 11: 1
+Enter bool element at index 12: 1
+
+
+Num of ones = 7
+
+vignesh@Vignesh-Linux-Mint-VM ~/Dropbox/DAA/Test-1 $ ./BoolArr.out 
+Enter size of bool-array: 12
+Enter bool element at index 0: 0
+Enter bool element at index 1: 0
+Enter bool element at index 2: 0
+Enter bool element at index 3: 1
+Enter bool element at index 4: 1
+Enter bool element at index 5: 1
+Enter bool element at index 6: 0
+Enter bool element at index 7: 0
+Enter bool element at index 8: 0
+Enter bool element at index 9: 1
+Enter bool element at index 10: 1
+Enter bool element at index 11: 1
+
+
+Num of ones = 6
+
+vignesh@Vignesh-Linux-Mint-VM ~/Dropbox/DAA/Test-1 $ ./BoolArr.out 
+Enter size of bool-array: 1
+Enter bool element at index 0: 1
+
+
+Num of ones = 1
+
+vignesh@Vignesh-Linux-Mint-VM ~/Dropbox/DAA/Test-1 $ ./BoolArr.out 
+Enter size of bool-array: 12
+Enter bool element at index 0: 1
+Enter bool element at index 1: 1
+Enter bool element at index 2: 1
+Enter bool element at index 3: 0
+Enter bool element at index 4: 0
+Enter bool element at index 5: 0
+Enter bool element at index 6: 1
+Enter bool element at index 7: 1
+Enter bool element at index 8: 1
+Enter bool element at index 9: 0
+Enter bool element at index 10: 0
+Enter bool element at index 11: 0
+
+
+Num of ones = 6
+
